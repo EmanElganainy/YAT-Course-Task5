@@ -1,0 +1,131 @@
+
+{
+
+	"HTMLFileName":"ed.html",
+	"expanded:images/images%20%282%29.jpg":"nil",
+	"PosterCapturePos":"0",
+	"pref__general__AutoKeyframeProperties":"true",
+	"expanded:images/slideshow-image-12.jpg":"nil",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"pref__general__GenerateSmoothTransitions":"true",
+	"expanded:images/designer-living-rooms-009.jpg":"nil",
+	"stage-Default Timeline_playhead_ms":"0",
+	"nextElementColorIndex":"4",
+	"PosterImagePath":"images/Poster.png",
+	"usedBOM":"false",
+	"expanded:images/slideshow-image-1.jpg":"nil",
+	"expanded:images/living-room-zinc-4-seater-and-2-seater-in-charcoal-jon-t-dfs.jpg":"nil",
+	"expanded:images/auburn-chair-h3189-display-n.jpg":"nil",
+	"expanded:images/23.jpg":"nil",
+	"viewStartY":"0",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"expanded:images/f1bad7dd48620ae955dfed3e63067a98e1285bbb.png":"nil",
+	"symbol_stage":{
+		"element_${Text}":{
+			"timelineColor2":"0x81aa62",
+			"invisible":"false",
+			"timelineColor":"0x91c767",
+			"locked":"false",
+			"timelineColor3":"0x5b6c4d"},
+		"dummyStageParentWidth":"1200px",
+		"dummyStageParentHeight":"900px",
+		"element_${designer-living-rooms-009}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"animationEnabled":"false",
+			"timelineColor":"0x00a096"},
+		"element_${Ellipse}":{
+			"timelineColor2":"0xcbbd71",
+			"invisible":"false",
+			"timelineColor":"0xeedf79",
+			"locked":"false",
+			"timelineColor3":"0x7b7652"},
+		"element_${living-room-zinc-4-seater-and-2-seater-in-charcoal-jon-t-dfs}":{
+			"timelineColor2":"0xb099ce",
+			"timelineColor3":"0x70657c",
+			"animationEnabled":"false",
+			"timelineColor":"0xceaef4"},
+		"element_${slideshow-image-12}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4"},
+		"element_${f1bad7dd48620ae955dfed3e63067a98e1285bbb}":{
+			"timelineColor2":"0xd35d6e",
+			"timelineColor3":"0x7e4b52",
+			"animationEnabled":"false",
+			"timelineColor":"0xfb657a"},
+		"element_${images_1}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"false",
+			"timelineColor":"0x91c767"},
+		"element_${_50_JohnsonRd_Lv1-LK}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
+			"timelineColor":"0x008dc8"},
+		"element_${_23}":{
+			"timelineColor2":"0xba5b89",
+			"timelineColor3":"0x734a5f",
+			"timelineColor":"0xdb619d"},
+		"element_${ee01b1c40f88cb76_0780-w400-h430-b0-p0--traditional-living-room}":{
+			"timelineColor2":"0x5a558a",
+			"timelineColor3":"0x4a485e",
+			"animationEnabled":"false",
+			"timelineColor":"0x63599f"},
+		"element_${Text2}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82"},
+		"defaultStageParentHeight":"900px",
+		"element_${slideshow-image-1}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"false",
+			"timelineColor":"0x50bd82"},
+		"element_${Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"invisible":"false",
+			"timelineColor":"0xeedf79",
+			"locked":"true",
+			"timelineColor3":"0x7b7652"},
+		"defaultStageParentWidth":"1200px",
+		"element_${auburn-chair-h3189-display-n}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"animationEnabled":"false",
+			"timelineColor":"0x2f73ad"},
+		"element_${_22}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
+			"timelineColor":"0xffd46d"},
+		"element_${images_2}":{
+			"timelineColor2":"0x1095d2",
+			"timelineColor3":"0x29647e",
+			"animationEnabled":"true",
+			"timelineColor":"0x00a9fa"}},
+	"TransitionIdCounter":"12",
+	"CompZoomFactor":"100",
+	"StageZoomFactor":"45",
+	"pixelsPerMs":"0.2",
+	"expanded:images/50_JohnsonRd_Lv1-LK.jpg":"nil",
+	"expanded:images/ee01b1c40f88cb76_0780-w400-h430-b0-p0--traditional-living-room.jpg":"nil",
+	"stage-Default Timeline_mark_ms":"-1",
+	"PubDPS":"true",
+	"expanded:images/22.jpg":"nil",
+	"expanded:images/Poster.png":"nil",
+	"expanded:images/images%20%281%29.jpg":"nil",
+	"pref__general__FilterNonAnimatedElements":"false"}
